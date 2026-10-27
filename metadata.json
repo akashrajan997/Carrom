@@ -1,0 +1,6 @@
+{
+  "name": "Carrom Royale 3D",
+  "description": "Premium 3D Carrom board game with realistic physics, ICF rules, multi-difficulty AI opponents, four handcrafted board themes, and Android/Kotlin project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
